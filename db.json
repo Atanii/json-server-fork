@@ -2,8 +2,7 @@
   "posts": [
     {
       "lat": 0.0,
-      "lon": 0.0,
-      "time": ""
+      "lon": 0.0
     }
   ]
   "profile": {
